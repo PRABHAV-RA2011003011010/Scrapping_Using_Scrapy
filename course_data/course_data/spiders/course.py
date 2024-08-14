@@ -16,7 +16,7 @@ facultyname1_list=[]
 facultydesig1_list=[]
 facultydes1_list=[]
 institutenames_list=[]
-#fee_list=[]
+##fee_list=[]
 
 
 
